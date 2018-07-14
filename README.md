@@ -23,41 +23,41 @@
 公司主要使用的技术:
 ```java
 
-spring,springboot,mybatis,rabbitMQ,redis,git,maven,jenkins
+spring,springboot,mybatis,rabbitMQ,redis,git,maven,jenkins,zookeeper
 
 ```  
 
 本人主要负责内容:
 
-1. 负责公司核心理财业务，包括退出，债转，债匹等
+1. 负责公司核心理财业务，包括退出，债转，债匹，合同，诉讼等
 2. 维护及开发影像平台
 3. 对接CRM系统接口
 4. 根据业务逻辑，完善系统
 
 
-#### CRM系统
+#### webservice系统，trade_ws系统，tradeCenter系统，batch系统等等
 
-主要开放对象是广告主、广告代理商和公司运营，目的是简化运营操作，使数据一目了然，方便人员管理，做到各个级别的权限控制，对接信息流广告投放API，实现了在CRM系统中投放、修改和删除广告。
+主要用于核心理财业务，实现了在全天范围内定时任务：如债权的挂起、转让，理财产品的退出等。主要用到了分布式redis锁及spring事务，保证了系统的高可用，防止各个任务间产生冲突。
 
  
-### 北京亿盟网联科技有限责任公司 （ 2016年06月 ~ 2017年03月 ）
+### 上海炫铺有限责任公司 （ 2016年08月 ~ 2017年08月 ）
 
-亿盟网联专注于云端酒店渠道管理系统；主要为民宿打造一键式管理酒店的Saas平台。  
+主要运营微信web商城：与上海工会渠道合作售卖商品  
 公司主要使用的技术:
 ```java
 
-spring,spring-jpa,spring-security,mysql,svn,activiti,easyrules,jenkins,maven
+play,第三方支付（微信、银联、工商银行等）,redis,nginx,mysql,crontab,tomcat,poi
 
 ```     
 本人主要负责内容：  
 
-1. 维护现有系统，修复现有系统 bug  
-2. 开发新功能，酒店的订单模块、渠道对接、消息模块、任务模块和会员模块
-3. 完善测试用例，搭建自动化构建环境
+1. 独立负责开发商城移动端，商户端，并负责部分商户端开发维护
+2. 使用webmagic爬取唯品会指定商家的商品数据
+3. 负责搭建阿里云服务器环境，配置ssl证书，配置域名，申请备案等工作
 
 
-#### CMS项目 
-本人在此项目负责Booking，艺龙等渠道的对接。
+#### 麦趣多商城 
+本人基本独立负责该项目大部分功能
 酒店CMS主要对接不同渠道（艺龙、booking等），通过webservice调用渠道提供的接口，处理返回数据入库，供酒店pms使用。
 主要技术：ultraesb、soap
 
@@ -68,7 +68,7 @@ spring,spring-jpa,spring-security,mysql,svn,activiti,easyrules,jenkins,maven
 本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块使用的是activti工作流。
 
 
-### 北京基调网络股份有限公司 （ 2015年11月 ~ 2016年03月 ）
+###天狼星俱乐部、趣鲜荟商城（兼职）  （ 2016年04月 ~ 2016年08月 ）
 北京基调是一家专注于应用性能监控的公司；为各大厂商提供性能监控的Saas平台。  
 公司主要使用的技术:
 ```java
