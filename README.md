@@ -35,7 +35,7 @@ spring,springboot,mybatis,rabbitMQ,redis,git,maven,jenkins,zookeeper
 4. 根据业务逻辑，完善系统
 
 
-#### webservice系统，trade_ws系统，tradeCenter系统，batch系统等等
+#### webservice项目，trade_ws项目，tradeCenter项目，batch项目等等
 
 主要用于核心理财业务，实现了在全天范围内定时任务：如债权的挂起、转让，理财产品的退出等。主要用到了分布式redis锁及spring事务，保证了系统的高可用，防止各个任务间产生冲突。
 
@@ -61,30 +61,28 @@ play,第三方支付（微信、银联、工商银行等）,redis,nginx,mysql,cr
 酒店CMS主要对接不同渠道（艺龙、booking等），通过webservice调用渠道提供的接口，处理返回数据入库，供酒店pms使用。
 主要技术：ultraesb、soap
 
-#### PMS项目
-酒店PMS，主要针对酒店内部人员。酒店内部人员接受订单，开关房，调价等操作。
-模块：订单管理、人员管理、任务管理和房型管理等模块。
-技术：spring,springmvc,spring-data-jpa,spring security,activiti,thymeleaf,html,js
-本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块使用的是activti工作流。
 
-
-###天狼星俱乐部、趣鲜荟商城（兼职）  （ 2016年04月 ~ 2016年08月 ）
-北京基调是一家专注于应用性能监控的公司；为各大厂商提供性能监控的Saas平台。  
+### 天狼星俱乐部、趣鲜荟商城（兼职）  （ 2016年04月 ~ 2016年08月 ）
+天狼星俱乐部是一个上港球迷组织，目前微信号注册人数超过2000  
+趣鲜荟商城是一家专供冷鲜类商品的商城，目前在微信公众号上运营
 公司主要使用的技术:
 ```java
 
 zabbix,rabbit-mq,apache,shell,python,docker,jenkins
 
 ```   
-本人主要负责内容：  
+本人全栈开发，主要负责内容： 
 
-1. 维护听云 server、idass 和 saas 相关服务器
-2. 协助管理听云 app 产品升级和维护，协助解决听云 app 的相关问题
-3. 维护官网服务器
-4. 学习docker，并把部分web项目迁移到docker上
+1. 独立搭建服务器，域名申请等
+2. 使用framework7作为移动端界面，bootstrap作为后台界面，后端使用java，mysql
+3. 对接微信第三方接口，获取用户授权信息、微信分享、支付等
 
-#### 听云server
-本人主要参与听云server架构的调整，听云server的日常维护和升级。
+
+#### 天狼星俱乐部
+主要为俱乐部会员提供会员注册续费、活动组织、功勋金币奖惩、排行榜、商户合作等功能。
+
+#### 趣鲜荟商城
+主要以团购形式为会员提供冷鲜类商品的服务
 
 
 ## 技能清单
@@ -100,12 +98,7 @@ java,spring家族,linux,mysql,git,jvm,nginx,shiro,mybatis,redis,jenkins,maven,gr
 ## 自我评价
 自学能力强，积极乐观，喜欢新兴事物，喜欢研究。
 
-## 兼职经历
-### 天狼星俱乐部（上港球迷俱乐部）
-天狼星俱乐部是一个上港球迷组织，目前微信号注册人数超过2000
-####天狼星微信号项目
-独立负责整个项目，主要为俱乐部会员提供会员注册续费、活动组织、功勋金币奖惩、排行榜、商户合作等功能
-技术：java,play,framework7,redis,crontab,微信支付,scala等
+
 
 
 
