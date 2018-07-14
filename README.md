@@ -23,7 +23,7 @@
 公司主要使用的技术:
 ```java
 
-spring,springboot,mybatis,rabbitMQ,redis,git,maven,jenkins,zookeeper
+spring cloud,springboot,springmvc,mybatis,rabbitMQ,redis,git,maven,jenkins,zookeeper
 
 ```  
 
@@ -84,6 +84,10 @@ zabbix,rabbit-mq,apache,shell,python,docker,jenkins
 #### 趣鲜荟商城
 主要以团购形式为会员提供冷鲜类商品的服务
 
+### 上海致宇有限责任公司 （ 2015年12月 ~ 2016年04月 ）
+
+负责宁波银行信托产品的模块开发
+
 
 ## 技能清单
 
@@ -92,7 +96,7 @@ zabbix,rabbit-mq,apache,shell,python,docker,jenkins
 
 ```java
 
-java,spring家族,linux,mysql,git,jvm,nginx,shiro,mybatis,redis,jenkins,maven,gradle,html,js,docker,zookeeper
+java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,微信开发,jquery,bootstrap,framework7,微信小程序
 
 ```
 ## 自我评价
