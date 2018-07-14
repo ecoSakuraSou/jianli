@@ -69,7 +69,7 @@ play,第三方支付（微信、银联、工商银行等）,redis,nginx,mysql,cr
 主要使用的技术:
 ```java
 
-mysql,shell,
+mysql,shell,axure
 
 ```   
 本人全栈开发，主要负责内容： 
