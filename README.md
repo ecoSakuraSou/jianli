@@ -37,7 +37,7 @@ spring cloud,springboot,springmvc,mybatis,rabbitMQ,redis,git,maven,tomcat,jenkin
 
 #### webservice项目，trade_ws项目，tradeCenter项目，batch项目等等
 
-主要用于核心理财业务，实现了在全天范围内定时任务：如债权的挂起、转让，理财产品的退出等。主要用到了分布式redis锁及spring事务，保证了系统的高可用，防止各个任务间产生冲突。
+主要用于核心理财业务，实现了在全天范围内定时任务：如债权的挂起、转让，理财产品的退出等，利用中间件实现系统间的通信。主要用到了分布式redis锁及spring事务，保证了系统的高可用，防止各个任务间产生冲突。
 
  
 ### 上海炫铺网络科技有限公司 （ 2016年08月 ~ 2017年08月 ）
