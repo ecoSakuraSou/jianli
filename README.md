@@ -102,7 +102,7 @@ java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabb
 
 ```
 ## 自我评价
-自学能力强，积极乐观，喜欢新兴事物，喜欢研究。
+熟悉电商、金融业务，自学能力强，积极乐观，喜欢新兴事物，喜欢研究。
 
 
 
