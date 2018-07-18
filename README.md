@@ -29,7 +29,7 @@ spring cloud,springboot,springmvc,mybatis,rabbitMQ,redis,git,maven,tomcat,jenkin
 
 本人主要负责内容:
 
-1. 负责公司核心理财业务，包括退出，债转，债匹，合同，诉讼等
+1. 负责公司后端核心理财业务，包括退出，债转，债匹，合同，诉讼等
 2. 维护及开发影像平台,调用七牛云接口
 3. 对接CRM系统接口
 4. 根据业务逻辑，完善系统
