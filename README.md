@@ -46,7 +46,7 @@ spring cloud,springboot,springmvc,mybatis,rabbitMQ,redis,git,maven,tomcat,jenkin
 公司主要使用的技术:
 ```java
 
-play,第三方支付（微信、银联、工商银行等）,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat,poi,hibernate JPA
+play framework,第三方支付（微信、银联、工商银行等）,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat,poi,hibernate JPA
 
 ```     
 本人主要负责内容：  
