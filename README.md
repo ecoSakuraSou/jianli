@@ -23,7 +23,7 @@
 公司主要使用的技术:
 ```java
 
-springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,zookeeper
+java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,zookeeper
 
 ```  
 
@@ -68,9 +68,9 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 2. 趣鲜荟商城是一家专供冷鲜类商品的商城，目前在微信公众号上运营
 
 主要使用的技术:
-```java
+```
 
-mysql,shell,axure工具等
+java,mysql,axure工具等
 
 ```   
 本人全栈开发，主要负责内容： 
@@ -98,7 +98,7 @@ mysql,shell,axure工具等
 
 ```java
 
-java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,微信开发,jquery,bootstrap,framework7,微信小程序
+java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,微信开发,jquery,bootstrap,framework7,dubbo,微信小程序
 
 ```
 ## 自我评价
