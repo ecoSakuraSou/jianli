@@ -62,8 +62,11 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 2. 运营端主要为运营人员提供商品上架、活动配置，首页配置、财务对账、数据统计等功能
 3. 主1. 要对接：对接了百度地图，各类支付，阿里云短信、快鸟第三方快递查询等等接口
 
+### 上海致宇信息技术有限公司 （ 2015年12月 ~ 2016年04月 ）
 
-### 天狼星俱乐部、趣鲜荟商城（兼职）  （ 2016年04月 ~ 2016年08月 ）
+负责宁波银行信托产品的模块开发
+
+### 天狼星俱乐部、趣鲜荟商城（兼职）  
 1. 天狼星俱乐部是一个上港球迷组织，目前微信号注册人数超过2000  
 2. 趣鲜荟商城是一家专供冷鲜类商品的商城，目前在微信公众号上运营
 
@@ -86,10 +89,6 @@ java,mysql,axure工具等
 #### 趣鲜荟商城
 主要以团购形式为会员提供冷鲜类商品的服务
 
-### 上海致宇信息技术有限公司 （ 2015年12月 ~ 2016年04月 ）
-
-负责宁波银行信托产品的模块开发
-
 
 ## 技能清单
 
@@ -98,7 +97,7 @@ java,mysql,axure工具等
 
 ```java
 
-java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,微信开发,jquery,bootstrap,framework7,dubbo,微信小程序
+java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,dubbo,微信开发,jquery,bootstrap,framework7
 
 ```
 ## 自我评价
