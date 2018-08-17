@@ -10,7 +10,7 @@
 
  - 男/1994/江苏江阴 
  - 本科/江苏科技大学计算机系 
- - 工作年限：2年
+ - 工作年限：2年半
  - 期望职位：Java开发工程师
  - 期望薪资：税前月薪15k~20k
  - 期望城市：上海
@@ -23,7 +23,7 @@
 公司主要使用的技术:
 ```java
 
-java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,zookeeper
+java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper
 
 ```  
 
@@ -46,7 +46,7 @@ java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,zookee
 公司主要使用的技术:
 ```java
 
-play framework,第三方支付（微信、银联、工商银行等）,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat,poi,hibernate JPA
+play framework,第三方支付（微信、银联、工商银行等）,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat,poi,hibernate JPA,svn
 
 ```     
 本人主要负责内容：  
@@ -60,7 +60,7 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 本人基本独立负责该项目大部分功能
 1. 移动端主要为用户提供优惠券、团购、秒杀、满减、定时抢购、促销等功能，同时提供支付、退款、查询订单等功能
 2. 运营端主要为运营人员提供商品上架、活动配置，首页配置、财务对账、数据统计等功能
-3. 主1. 要对接：对接了百度地图，各类支付，阿里云短信、快鸟第三方快递查询等等接口
+3. 主要对接：对接了百度地图，各类支付，阿里云短信、快鸟第三方快递查询等等接口
 
 ### 上海致宇信息技术有限公司 （ 2015年12月 ~ 2016年04月 ）
 
@@ -73,7 +73,7 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 主要使用的技术:
 ```
 
-java,mysql,axure工具等
+playframework,java,redis,阿里云等
 
 ```   
 本人全栈开发，主要负责内容： 
