@@ -23,7 +23,7 @@
 公司主要使用的技术:
 ```java
 
-java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper
+java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper,了解spring cloud
 
 ```  
 
