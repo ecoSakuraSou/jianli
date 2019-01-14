@@ -12,6 +12,7 @@
  - 本科/江苏科技大学计算机系 
  - 工作年限：3年
  - 期望职位：Java开发工程师
+ - 期望薪资：18k-20k
  - 期望城市：上海
 
 
@@ -22,7 +23,7 @@
 公司主要使用的技术:
 ```java
 
-java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper,了解spring cloud
+java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper,swagger,restful,了解spring cloud
 
 ```  
 
@@ -30,13 +31,19 @@ java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,
 
 1. 负责公司后端核心理财业务，包括退出，债转，债匹，合同，诉讼等
 2. 维护及开发影像平台,调用七牛云接口
-3. 对接CRM系统接口，利用线程池和mybatis批量操作，进行千万级数据的导入
-4. 根据业务逻辑，完善系统
+3. 对接CRM系统、神州融系统
+4. 服务拆分，重构债权系统
+
+### 理财项目
+1.利用分布式锁解决事务间冲突问题
+2.自定义注解实现接口的幂等性，防止用户重复提交接口
+3.重构债权系统，保证消息的负载均衡及事务一致性，并配置化债权匹配流程
+3.利用incr防止订单的超卖问题
+4.每天定时解压文件并遍历，利用线程池及批量插入高效化处理神州融的千万级业务数据，最后邮件通知执行完毕
+5.解决报备接口的多数据源问题
+6.优化理财退出流程，利用消息分发和redis递减加快了退出速率
 
 
-#### webservice项目，trade_ws项目，tradeCenter项目，batch项目等等
-
-主要用于核心理财业务，实现了在全天范围内定时任务：如债权的挂起、转让，理财产品的退出等，利用中间件实现系统间的通信。主要用到了分布式redis锁及spring事务，保证了系统的高可用，防止各个任务间产生冲突。
 
  
 ### 上海炫铺网络科技有限公司 （ 2016年08月 ~ 2017年08月 ）
@@ -51,15 +58,15 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 本人主要负责内容：  
 
 1. 独立全栈开发商城移动端，商户端，并负责部分商户端开发维护
-2. 使用webmagic爬取唯品会指定商家的商品数据
-3. 负责搭建阿里云服务器环境，配置ssl证书，配置域名，申请备案等工作
+2.对接微信支付、银联支付、工行支付
+3. 负责搭建阿里云服务器环境，nginx配置ssl证书，反向代理，配置域名，申请备案等工作
 
 
 #### 麦趣多商城 
 本人基本独立负责该项目大部分功能
-1. 移动端主要为用户提供优惠券、团购、秒杀、满减、定时抢购、促销等功能，同时提供支付、退款、查询订单等功能
+1. 移动端主要为用户提供秒杀、团购、优惠券、满减、定时抢购、促销等功能，同时提供支付、退款、订单等功能
 2. 运营端主要为运营人员提供商品上架、活动配置，首页配置、财务对账、数据统计等功能
-3. 主要对接：对接了百度地图，各类支付，阿里云短信、快鸟第三方快递查询等等接口
+3. 主要对接：对接了百度地图，阿里云短信、快鸟第三方快递查询等等接口
 
 ### 上海致宇信息技术有限公司 （ 2015年12月 ~ 2016年04月 ）
 
@@ -67,7 +74,7 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 
 ### 天狼星俱乐部、选好货（兼职）  
 1. 天狼星俱乐部是一个上港球迷组织，目前微信号注册人数超过3000 （独立开发）
-2. 选好货商城是一家专供冷鲜类商品的商城，在微信小程序上运营，月订单数万，目前pre-A+轮（两名开发人员之一）
+2. 选好货商城是一家专供冷鲜类商品的社区商城，在微信小程序上运营，目前最新一笔融资数千万，pre-A+轮（两名开发人员之一）
 
 主要使用的技术:
 ```
@@ -96,7 +103,7 @@ playframework,java,redis,阿里云等
 
 ```java
 
-java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,dubbo,微信开发,jquery,bootstrap,framework7
+java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,spring cloud,微信开发,jquery,bootstrap,framework7
 
 ```
 ## 自我评价
