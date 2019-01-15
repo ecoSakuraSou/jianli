@@ -23,7 +23,8 @@
 公司主要使用的技术:
 ```java
 
-java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,zookeeper,swagger,restful,了解spring cloud
+java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,
+nginx,zookeeper,swagger,restful,了解spring cloud
 
 ```  
 
@@ -34,7 +35,7 @@ java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,
 3. 对接CRM系统、神州融系统
 4. 服务拆分，重构债权系统
 
-### 理财项目
+### 理财相关项目
 1. 利用分布式锁解决事务间冲突问题
 2. 自定义注解实现接口的幂等性，防止用户重复提交接口
 3. 重构债权系统，保证消息的负载均衡及事务一致性，并配置化债权匹配流程
@@ -52,7 +53,8 @@ java,springboot,springmvc,mybatis,redis,rabbitMQ,git,maven,tomcat,jenkins,nginx,
 公司主要使用的技术:
 ```java
 
-play framework,第三方支付（微信、银联、工商银行等）,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat,poi,hibernate JPA,svn
+play framework,redis（队列，缓存，锁）,nginx,mysql,crontab,tomcat
+,poi,hibernate JPA,svn
 
 ```     
 本人主要负责内容：  
@@ -79,7 +81,7 @@ play framework,第三方支付（微信、银联、工商银行等）,redis（�
 主要使用的技术:
 ```
 
-playframework,java,redis,阿里云等
+play framework,java,redis,阿里云等
 
 ```   
 本人全栈开发，主要负责内容： 
@@ -103,7 +105,8 @@ playframework,java,redis,阿里云等
 
 ```java
 
-java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,rabbitMQ,各类第三方支付,maven,spring cloud,微信开发,jquery,bootstrap,framework7
+java,spring家族,play framework,linux,oracle,mysql,git,nginx,mybatis,redis,
+rabbitMQ,各类第三方支付,maven,spring cloud,微信开发,jquery,bootstrap,framework7
 
 ```
 ## 自我评价
